@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import {FormControl, FormGroup} from '@angular/forms';
 import {ProductService} from '../../service/product.service';
 
+
 @Component({
   selector: 'app-product-create',
   templateUrl: './product-create.component.html',
